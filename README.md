@@ -1,6 +1,6 @@
 # React: Single Page Applications
 
-This is the repository for my course React Single Page Applications.
+This is the repository for React Single Page Applications. A firebase account might be required.
 
 
 1. Make sure you have these installed

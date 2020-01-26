@@ -1,0 +1,13 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": 'auth!=null',
+      "meetings": {
+        "$meetingID": {
+          "attendees": {
+            ".write": true 
+          }
+        }
+      }
+  }
+}
